@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m @Hopejrajoku<br><br> Interested in: Building smart, scalable solutions as a developer<br> Currently learning: To never stop improving and exploring new technologies<br> Open to collaborate on: Exciting projects that solve real-world problems<br> Reach me at: hopejr.vercel.app<br><br> Pronouns: He/Him<br> Fun fact: I’m as competitive in sports as I am in coding!
+Hi, I’m @Hopejrajoku<br><br> Interested in: Building smart, scalable solutions as a developer<br> Currently learning: To never stop improving and exploring new technologies<br> Open to collaborate on: Exciting projects that solve real-world problems <br><br> Pronouns: He/Him<br> Fun fact: I’m as competitive in sports as I am in coding!
 
 
 # Socials:
